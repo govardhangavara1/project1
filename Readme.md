@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 myfirstproject
+=====
+hello
+
+>>>>>>> main
 
